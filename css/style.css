@@ -1,0 +1,35 @@
+.card {
+  max-width: 400px;
+  margin: auto;
+  padding: 15px;
+  border-radius: 4px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+  background-color: rgb(75, 57, 57);
+  opacity: 0.8;
+}
+
+.boton {
+  background: linear-gradient(
+    11deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(253, 187, 45, 1) 100%
+  );
+}
+
+.backgroundMain {
+  background: linear-gradient(
+    11deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(253, 187, 45, 1) 100%
+  );
+  background-repeat: no-repeat;
+  background-image: cover;
+  background-position: center;
+}
+
+.titulo {
+  font-size: 3em;
+  text-align: center;
+  color: black;
+  text-shadow: 1px 1px 1px yellow;
+}
